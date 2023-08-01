@@ -120,7 +120,7 @@ python -m mononerd.datasets.waymo.lidar_waymo_dataset creat_waymo_infos
 python -m mononerd.datasets.waymo.lidar_waymo_dataset create_gt_database_only
 ```
 
-### Training & Testing & Visualization
+### Training & Testing
 #### Train a model  
 
 * Train with multiple GPUs
