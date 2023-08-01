@@ -1,0 +1,14 @@
+ffmpy
+scikit-image
+fire
+tensorboardX
+tqdm
+numpy
+numba
+easydict
+pyyaml==5.4.1
+mmcv-full==1.2.1
+opencv-python-headless
+einops==0.3.2
+moviepy
+matplotlib
