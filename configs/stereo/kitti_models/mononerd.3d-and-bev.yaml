@@ -17,8 +17,8 @@ MODEL:
         weights: [1.0, 1.0, 1.0, 1.0, 1.0]
         left_depth: True
         left_rgb: True
-        right_depth: True
-        right_rgb: True
+        right_depth: False
+        right_rgb: False
         sdf: True
     LIDAR_MODEL:
         NAME: SECONDNet
