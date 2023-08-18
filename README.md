@@ -143,7 +143,7 @@ The results are the BEV / 3D detection performance of Car class on the *val* set
 
 || Training Time | Easy@R40 | Moderate@R40 | Hard@R40  | download |
 |----------|--------:|:-------:|:-------:|:-------:|:---------:|
-|mononerd|~13 hours| 29.03 / 20.64 | 22.03 / 15.44 | 19.41 / 13.99 | [Google-drive](https://drive.google.com/file/d/placeholder) / [百度盘](https://pan.baidu.com/s/18gBBf6xrQIfRco3rbQ_bBw?pwd=8va7)|
+|mononerd|~13 hours| 29.03 / 20.64 | 22.03 / 15.44 | 19.41 / 13.99 | [Google-drive](https://drive.google.com/drive/folders/1ylbAVce09AjFq6J4SiFty2rTSvBbz7kM?usp=sharing) / [百度盘](https://pan.baidu.com/s/18gBBf6xrQIfRco3rbQ_bBw?pwd=8va7)|
 ## Citation
 
 ```
