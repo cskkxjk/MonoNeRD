@@ -1,3 +1,4 @@
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2308.09421)
 # MonoNeRD: NeRF-like Representations for Monocular 3D Object Detection
 ## Introduction
 This is the implementation of MonoNeRD: NeRF-like Representations for Monocular 3D Object Detection, In ICCV'23, Junkai Xu, Liang Peng, Haoran Cheng, Hao Li, Wei Qian, Ke Li, Wenxiao Wang and Deng Cai. Also a simple way to get 3D geometry and occupancy from monocular images. Paper is still under revision for camera-ready version.
@@ -5,6 +6,7 @@ This is the implementation of MonoNeRD: NeRF-like Representations for Monocular 
 ![Framework](./docs/framework.png)
 
 ## News
+- [2023-8-21] [Paper](https://arxiv.org/abs/2308.09421) is released on arxiv!
 - [2023-8-1] Code is released.
 - [2023-7-14] MonoNeRD is accepted at ICCV 2023!! Code is comming soon.
 - [2023-2-20] Demo release.
