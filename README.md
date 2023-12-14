@@ -151,10 +151,11 @@ The results are the BEV / 3D detection performance of Car class on the *val* set
 
 ```
 @inproceedings{xu2023mononerd,
-      title={MonoNeRD: NeRF-like Representations for Monocular 3D Object Detection},
-      author={Xu, Junkai and Peng, Liang and Cheng, Haoran and Li, Hao and Qian, Wei and Li, Ke and Wang, WenXiao and Cai, Deng},
-      year={2023},
-      booktitle={ICCV},
+  title={Mononerd: Nerf-like representations for monocular 3d object detection},
+  author={Xu, Junkai and Peng, Liang and Cheng, Haoran and Li, Hao and Qian, Wei and Li, Ke and Wang, Wenxiao and Cai, Deng},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={6814--6824},
+  year={2023}
 }
 ```
 
